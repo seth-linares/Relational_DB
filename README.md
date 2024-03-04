@@ -2,10 +2,6 @@
 
 For this project, I decided to develop an application that integrates with a SQL relational database. The core of this software is an expense tracker, designed to manage financial records in a user friendly manner. It allows users to add, update, delete, and view expense records. This program was built with a Command Line Interface (CLI), offering simple navigation through menu options. Users can easily add expense categories, record individual expenses, and view or modify these records as needed. The purpose behind creating this software was to develop and deepen my understanding of database management and SQL operations within a Python environment. It was an opportunity to apply some of my previous theoretical knowledge in a practical setting, which allows me to enhance my skills in database handling and Python programming.
 
-# Video Demonstration
-
-[Software Demo Video](https://youtu.be/XiSCcsu10aI)
-
 # Relational Database
 
 For this project, I utilized SQLite, a lightweight, yet powerful relational database system. SQLite offers the flexibility needed for development without the overhead of setting up a server-based database system.
